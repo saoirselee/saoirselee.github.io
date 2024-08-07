@@ -1,0 +1,17 @@
+{
+  "name": "saoirselee.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/saoirselee/saoirselee.github.io.git",
+  "author": "Yanjin Li <yanjinli502@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.3.2",
+    "vue": "^3.4.36"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
